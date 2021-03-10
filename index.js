@@ -532,9 +532,9 @@ async function starts() {
 
 				num = anu.participants[0]
 
-				teks = `Hai @${num.split('@')[0]}
+				teks = `Eae seu corno bem vindo ao grupo @${num.split('@')[0]}
 
-Selamat datang di
+leia as regras do grupo seu corno
 
 *${mdata.subject}*
 
@@ -548,7 +548,7 @@ Selamat datang di
 
 ┠⊷️ *Nome* :
 
-┠⊷️ *Número* :
+┠⊷️ *Número* : @${num.split('@')[0]}
 
 ┠⊷️ *Cidade natal* :
 
@@ -566,7 +566,7 @@ Modelo ${prefix}verify untuk para começar a usar bot.`
 
 				num = anu.participants[0]
 
-				teks = `Adeus @${num.split('@')[0]}👋`
+				teks = `vai na sombra irmão pq bosta no sol seca kkkkk vai fazer falta n random Do krl👋@${num.split('@')[0]}👋`
 
 				Pin.sendMessage(mdata.id, teks, MessageType.text, {contextInfo: {"mentionedJid": [num]}})
 
@@ -6682,7 +6682,7 @@ case 'unblock':
 
 						if (err) return reply(mess.error.stick)
 
-						exec(`webpmux -set exif ${addMetadata('BRUXIHO', 'CURA LÉSBICA kkkk')} ${rano} -o ${rano}`, async (error) => {
+						exec(`webpmux -set exif ${addMetadata('JAOZIN', 'CURA LÉSBICA kkkk')} ${rano} -o ${rano}`, async (error) => {
 
 							if (error) return reply(mess.error.stick)
 
@@ -6726,7 +6726,7 @@ for (let mem of groupMembers) {
 
 }
 
-mentions('〘  *TEGAL* 〙\n┏━━━━━━━━━━━━━━━━━━━━\n┠⊷'+teks+'┃━━━━━━━━━━━━━━━━━━━━\n┃────✪ 🥀𝐉𝐀𝐎𝐙𝐈𝐍🥀 WAR ✪────\n┗━━━━━━━━━━━━━━━━━━━━', members_id, true)
+mentions('〘  *Te marcando aqui p vc chupar minha rola su puta 😐🤙* 〙\n┏━━━━━━━━━━━━━━━━━━━━\n┠⊷'+teks+'┃━━━━━━━━━━━━━━━━━━━━\n┃────✪ 🥀𝐉𝐀𝐎𝐙𝐈𝐍🥀 WAR ✪────\n┗━━━━━━━━━━━━━━━━━━━━', members_id, true)
 
 break
 
