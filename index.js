@@ -4980,52 +4980,6 @@ quoted: mek, caption: teks
 
 
 
-case 'play':  
-
-  if (args.length < 1) return reply('Digite o título da música')
-
-  reply(mess.wait)
-
-  play = body.slice(6)
-
-  try {
-
-  anu = await fetchJson(`https://api.zeks.xyz/api/ytplaymp3?q=${mus}&apikey=apivinz`, {method: 'get'})
-
-  if (anu.error) return reply(anu.error)
-
-  infomp3 = `*Áudio encontrado*\n‣ *Título* : ${anu.result.title}\n‣ *Fonte* : ${anu.result.source}\n‣ *Tamanho* : ${anu.result.size}\n\n_Enviando arquivos aguarde se o áudio não aparecer faça o download aqui_\n‣ *Link* : ${anu.result.url_audio}
-
-  `
-
-  buffer = await getBuffer(anu.result.thumbnail)
-
-  lagu = await getBuffer(anu.result.url_audio)
-
-  Pin.sendMessage(from, buffer, image, {
-
-quoted: mek, caption: infomp3
-
-  })
-
-  Pin.sendMessage(from, lagu, audio, {
-
-mimetype: 'audio/mp4', filename: `${anu.result.title}.mp3`, quoted: mek
-
-  })
-
-  
-
-  } catch {
-
-    reply(mess.ferr)
-
-  }
-
-  break
-
-
-
 
 
 case 'ytmp3':
