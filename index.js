@@ -3907,19 +3907,6 @@ reply(hasil)
 break
 
 
-case 'play':  
-                play = body.slice(5)
-                anu = await fetchJson(`https://api.zeks.xyz/api/ytplaymp3?q=${play}&apikey=apivinz`)
-               if (anu.error) return reply(anu.error)
-                 infomp3 = `*Canção encontrada!!!*\nTítulo : ${anu.result.title}\nFonte : ${anu.result.source}\nTamanho : ${anu.result.size}\n\n*CALMA AE KARAY TÔ ENVIANDO A MÚSICA PDP*`
-                buffer = await getBuffer(anu.result.thumbnail)
-                lagu = await getBuffer(anu.result.url_audio)
-                client.sendMessage(from, buffer, image, {quoted: mek, caption: infomp3})
-                client.sendMessage(from, lagu, audio, {mimetype: 'audio/mp4', filename: `${anu.title}.mp3`, quoted: mek})
-                break
-
-
-
 
 //--fake reply
 
@@ -4993,11 +4980,7 @@ quoted: mek, caption: teks
 
 
 
-case 'play':
-
-  if (!isRegister) return reply(mess.only.daftarB)
-
-  
+case 'play':  
 
   if (args.length < 1) return reply('Digite o título da música')
 
