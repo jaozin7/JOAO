@@ -532,9 +532,9 @@ async function starts() {
 
 				num = anu.participants[0]
 
-				teks = `Eae seu corno bem vindo ao grupo @${num.split('@')[0]}
+				teks = `EAE CHUPA ROLA BEM VINDO AO GRUPO KK LEIA AS REGRAS PARA NÃO SER REMOVIDO 🤙@${num.split('@')[0]}
 
-leia as regras do grupo para nao ser removido 😐🤙
+Selamat datang di
 
 *${mdata.subject}*
 
@@ -552,7 +552,7 @@ leia as regras do grupo para nao ser removido 😐🤙
 
 ┠⊷️ *Cidade natal* :
 
-┠⊷️ *Gênero* : travequim
+┠⊷️ *Gênero* : TRAVECO
 
 ┗━━━━━━━━━━━━━━━━━━━━
 
@@ -565,13 +565,8 @@ Modelo ${prefix}verify untuk para começar a usar bot.`
 			} else if (anu.action == 'remove') {
 
 				num = anu.participants[0]
-					try {
-					ppimg = await client.getProfilePicture(`${num.split('@')[0]}@c.us`)
-				} catch {
-					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
-				}
 
-				teks = `vai pela sombra irmão pq bosta no sol seca kkkkk FDP vai fazer nem falta Ghost do krl👋@${num.split('@')[0]}👋`
+				teks = `Vai pela sombra irmão pq bosta no sol seca kkkkk FDP faz nem falta Ghost do krl @${num.split('@')[0]}👋`
 
 				Pin.sendMessage(mdata.id, teks, MessageType.text, {contextInfo: {"mentionedJid": [num]}})
 
@@ -667,9 +662,9 @@ Modelo ${prefix}verify untuk para começar a usar bot.`
 
     ownerG: '*☒* Este recurso é para *OWNER GRUPO*',
 
-    ownerB: '*☒* Este recurso é para *🥀 𝐉𝐀𝐎𝐙𝐈𝐍🥀*',
+    ownerB: '*☒* Este recurso é para *BRUXINHO*',
 
-    admin: '*☒* Este recurso é para *ADEMIR DO GRUPO*',
+    admin: '*☒* Este recurso é para *ADMIN GRUPO*',
 
     Badmin: '*☒* Torne-o alpino *ADMIN !*',
 
@@ -1169,7 +1164,7 @@ case '?':
 
   const Menu = {
 
-text: `    ────✪ 🥀⏤͟͟͞͞𝐁𝐎𝐓 𝐃𝐎 𝐉𝐀𝐎𝐙𝐈𝐍🥀 ✪────
+text: `    ────✪ 🥀⏤͟͟͞͞𝐁𝐎𝐓 𝐃𝐎 𝐉𝐀𝐎𝐙𝐈𝐍🥀✪────
            ☆┌─┐  ─┐☆
 　│▒│ /▒/
 　│▒│/▒/
@@ -1182,7 +1177,7 @@ text: `    ────✪ 🥀⏤͟͟͞͞𝐁𝐎𝐓 𝐃𝐎 𝐉𝐀𝐎𝐙
 
         ────────────────
 
-Salve👀 *${pushname}* salva mue ctt wa.me/+5533999342694
+Salve👀 *${pushname}*  seu delícia
 
         ────────────────͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏
 
@@ -1192,7 +1187,7 @@ Salve👀 *${pushname}* salva mue ctt wa.me/+5533999342694
 
 ‣ Prefix:  *「 ${prefix} 」*
 
-‣ Nome: *🥀⏤͟͟͞͞𝐁𝐎𝐓 𝐃𝐎 𝐉𝐀𝐎𝐙𝐈𝐍🥀*
+‣ Nome: *🥀𝐉𝐀𝐎𝐙𝐈𝐍🥀*
 
 ‣ WA Conectado: *Baileys*
 
@@ -1202,18 +1197,17 @@ Salve👀 *${pushname}* salva mue ctt wa.me/+5533999342694
 
 ‣ Grupo:  *${groupName}*
 
+‣ salva meu contatim : wa.me/+553399342694 (só clicar)
+
 ‣ Numero de usuários : *${_registered.length} User*
 
 ‣ Numero de chats : *${totalchat.length} Chat*
-
-‣ chama eu : wa.me/+5533999343694
-
 
       ────────────────
 
 ┏━━━━━━━━━━━━━━━━━━━━
 
-┃─────〘 *⏤͟͟͞͞𝐁𝐎𝐓 𝐃𝐎 𝐉𝐀𝐎𝐙𝐈𝐍🥀* 〙────
+┃─────〘 *🥀⏤͟͟͞͞𝐁𝐎𝐓 𝐃𝐎 𝐉𝐀𝐎𝐙𝐈𝐍🥀 〙────
 
 ┃━━━━━━━━━━━━━━━━━━━━
 
@@ -1419,7 +1413,7 @@ Salve👀 *${pushname}* salva mue ctt wa.me/+5533999342694
 
 ┗━━━━━━━━━━━━━━━━━━━━
 
-*〘 EDITANDO 〙*
+*〘 EDIÇÃO 〙*
 
 ┏━━━━━━━━━━━━━━━━━━━━
 
@@ -4989,6 +4983,57 @@ quoted: mek, caption: teks
 
 
 
+case 'play':
+
+  if (!isRegister) return reply(mess.only.daftarB)
+
+  
+
+  if (args.length < 1) return reply('Digite o título da música')
+
+  reply(mess.wait)
+
+  play = body.slice(6)
+
+  try {
+
+  anu = await fetchJson(`https://api.zeks.xyz/api/ytplaymp3?q=${mus}&apikey=apivinz`, {method: 'get'})
+
+  if (anu.error) return reply(anu.error)
+
+  infomp3 = `*Áudio encontrado*\n‣ *Título* : ${anu.result.title}\n‣ *Fonte* : ${anu.result.source}\n‣ *Tamanho* : ${anu.result.size}\n\n_Enviando arquivos aguarde se o áudio não aparecer faça o download aqui_\n‣ *Link* : ${anu.result.url_audio}
+
+  `
+
+  buffer = await getBuffer(anu.result.thumbnail)
+
+  lagu = await getBuffer(anu.result.url_audio)
+
+  Pin.sendMessage(from, buffer, image, {
+
+quoted: mek, caption: infomp3
+
+  })
+
+  Pin.sendMessage(from, lagu, audio, {
+
+mimetype: 'audio/mp4', filename: `${anu.result.title}.mp3`, quoted: mek
+
+  })
+
+  
+
+  } catch {
+
+    reply(mess.ferr)
+
+  }
+
+  break
+
+
+
+
 
 case 'ytmp3':
 
@@ -6636,7 +6681,7 @@ case 'unblock':
 
 						if (err) return reply(mess.error.stick)
 
-						exec(`webpmux -set exif ${addMetadata('JAOZIN', 'CURA LÉSBICA kkkk')} ${rano} -o ${rano}`, async (error) => {
+						exec(`webpmux -set exif ${addMetadata('BRUXIHO', 'CURA LÉSBICA kkkk')} ${rano} -o ${rano}`, async (error) => {
 
 							if (error) return reply(mess.error.stick)
 
@@ -6680,7 +6725,7 @@ for (let mem of groupMembers) {
 
 }
 
-mentions('〘  *Te marcando aqui p vc chupar minha 😐🤙* 〙\n┏━━━━━━━━━━━━━━━━━━━━\n┠⊷'+teks+'┃━━━━━━━━━━━━━━━━━━━━\n┃────✪ 🥀𝐉𝐀𝐎𝐙𝐈𝐍🥀 WAR ✪────\n┗━━━━━━━━━━━━━━━━━━━━', members_id, true)
+mentions('〘  *TE MARCANDO AQUI P VC CHUPAR MINHA ROLA😐🤙🐒* 〙\n┏━━━━━━━━━━━━━━━━━━━━\n┠⊷'+teks+'┃━━━━━━━━━━━━━━━━━━━━\n┃────✪ 🥀𝐉𝐀𝐎𝐙𝐈𝐍🥀 ✪────\n┗━━━━━━━━━━━━━━━━━━━━', members_id, true)
 
 break
 
